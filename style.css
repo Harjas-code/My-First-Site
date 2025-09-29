@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 900px;
+  margin: 20px auto;
+  padding: 0 16px;
+  line-height: 1.5;
+}
+
+h1 { text-align: center; margin-bottom: 8px; }
+ol { margin-left: 20px; }
+ul { margin-left: 20px; list-style-type: square; }
+
+input { padding: 6px; margin-right: 6px; }
+button { padding: 6px 10px; cursor: pointer; }
